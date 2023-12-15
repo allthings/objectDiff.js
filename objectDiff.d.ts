@@ -1,4 +1,4 @@
-declare module 'deep-object-diff' {
+declare module '@allthings/objectdiff' {
   export type ChangeType = 'equal' | 'primitive change' | 'removed' | 'added' | 'object change';
 
   export interface DiffResult {
