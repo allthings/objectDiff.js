@@ -22,6 +22,7 @@
     "objectDiff.d.ts"
   ],
   "main": "objectDiff.js",
+  "types": "objectDiff.d.ts",
   "engines": {
     "node": ">=0.2.0"
   },
